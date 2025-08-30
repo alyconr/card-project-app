@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "fQ7fOc3Q3aVIzWSXZ-Q2l",
+      "type": "text",
+      "x": -156.7062225341797,
+      "y": -352.43482971191406,
+      "width": 3878.56591796875,
+      "height": 1260,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 1171592001,
+      "version": 584,
+      "versionNonce": 260709217,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1756557312562,
+      "link": null,
+      "locked": false,
+      "text": "📋 Miniproyecto guiado: Galería de tarjetas reutilizables\n\n📌 Enunciado:\nDesarrolla una sencilla galería de tarjetas (por ejemplo, perfiles de usuarios o productos) utilizando componentes con props. Cada tarjeta debe ser configurable mediante props para personalizar imagen, título y descripción.\n\n✅ Pasos sugeridos:\n\n Inicializa un nuevo proyecto React con Vite y Tailwind CSS.\n\n Crea un componente reutilizable Card.jsx que reciba props (imagen, titulo, descripcion).\n\n Renderiza múltiples tarjetas con distintos contenidos en pantalla.\n\n Usa Tailwind CSS para diseñar y organizar las tarjetas en forma de grilla (grid).\n\n✨ Retos extra (opcional):\n\nImplementa un botón de acción en cada tarjeta mediante composición.\n\nAñade animaciones de transición al pasar el cursor sobre las tarjetas.\n\n🤔 Preguntas de autoevaluación\n\n¿Qué diferencia hay entre las props y el estado?\n\n¿Cómo pasar múltiples props a un componente?\n\n¿En qué consiste la composición de componentes y por qué es importante?",
+      "fontSize": 36,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "📋 Miniproyecto guiado: Galería de tarjetas reutilizables\n\n📌 Enunciado:\nDesarrolla una sencilla galería de tarjetas (por ejemplo, perfiles de usuarios o productos) utilizando componentes con props. Cada tarjeta debe ser configurable mediante props para personalizar imagen, título y descripción.\n\n✅ Pasos sugeridos:\n\n Inicializa un nuevo proyecto React con Vite y Tailwind CSS.\n\n Crea un componente reutilizable Card.jsx que reciba props (imagen, titulo, descripcion).\n\n Renderiza múltiples tarjetas con distintos contenidos en pantalla.\n\n Usa Tailwind CSS para diseñar y organizar las tarjetas en forma de grilla (grid).\n\n✨ Retos extra (opcional):\n\nImplementa un botón de acción en cada tarjeta mediante composición.\n\nAñade animaciones de transición al pasar el cursor sobre las tarjetas.\n\n🤔 Preguntas de autoevaluación\n\n¿Qué diferencia hay entre las props y el estado?\n\n¿Cómo pasar múltiples props a un componente?\n\n¿En qué consiste la composición de componentes y por qué es importante?",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
