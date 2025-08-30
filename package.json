@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "server": "json-server --watch db.json --port 3001",
+    "server": "json-server db.json --port 3001",
     "preview": "vite preview"
   },
   "dependencies": {
