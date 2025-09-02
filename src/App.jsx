@@ -49,6 +49,29 @@ console.log(tarjetas)
           </div>
         </div>
       )}
+
+<div className='max-m-md mx-auto p-6 border-gray-500 rounded shadow-xl'>
+      <form>
+        <div>
+          <label>Titulo:
+            <input type="text" className='w-full border p-2 rounded' placeholder="Escribe tu nombre" required/>
+          </label>
+        </div>
+        <div>
+          <label>Imagen:
+            <input type="file" className='w-full border p-2 rounded' placeholder="Escribe tu nombre" required/>
+          </label>
+        </div>
+        <div>
+          <label>Descripción:
+            <input type="text" className='w-full border p-2 rounded' placeholder="Escribe tu nombre" required/>
+          </label>
+        </div>
+        <button type='submit' className='bg-blue-500 text-while px-4 py-2 rounded'>Publicar</button>
+        <button type='submit' className='bg-blue-500 text-while px-4 py-2 rounded'>Borrar</button>
+      </form>
+    </div>
     </div>
   )
 }
+
